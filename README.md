@@ -28,17 +28,17 @@ Antes de comenzar, asegúrate de tener instalado:
 
 3. Crea un entorno virtual:
    ```
-   python -m venv venv
+   python -m venv dash-env
    ```
 
 4. Activa el entorno virtual:
    - En Windows:
      ```
-     venv\Scripts\activate
+     dash-env\Scripts\activate
      ```
    - En macOS y Linux:
      ```
-     source venv/bin/activate
+     source dash-env/bin/activate
      ```
 
 5. Instala las dependencias:
